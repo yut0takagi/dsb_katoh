@@ -1,0 +1,5 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+女all 　顔,女all ネックレス,-0.6488,0.0,-0.8426,-0.455,True
+女all 　顔,女all 髪型,-0.681,0.0,-0.8747,-0.4872,True
+女all 　顔,女allL,-0.6565,0.0,-0.8503,-0.4627,True
+女all 　顔,女alllR,-0.6232,0.0,-0.817,-0.4294,True

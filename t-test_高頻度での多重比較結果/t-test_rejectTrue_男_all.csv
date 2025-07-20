@@ -1,0 +1,5 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+男all L,男all 顔,0.6158,0.0002,0.2786,0.953,True
+男all R,男all 顔,0.6134,0.0002,0.2762,0.9506,True
+男all ネックレス,男all 顔,0.6199,0.0002,0.2827,0.9571,True
+男all 顔,男all 髪型,-0.4695,0.0039,-0.8067,-0.1323,True
